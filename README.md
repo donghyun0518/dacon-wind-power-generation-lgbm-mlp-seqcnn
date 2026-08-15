@@ -1,12 +1,12 @@
-# <h1 style="text-align: center;">⚡2025 전력사용량 예측 AI 경진대회</h1>
+# <h1 style="text-align: center;">제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026</h1>
 <hr>
 <p style="text-align: center;">
-    <a href="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm/blob/main/%EC%A0%84%EB%A0%A5%20(1).pdf" target="_blank">
-        <img src="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm/blob/main/power_consuption_main.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+    <a href="https://github.com/donghyun0518/dacon-wind-power-generation-lgbm-mlp-seqcnn/blob/main/wind-power-forecasting-portfolio.pdf" target="_blank">
+        <img src="https://github.com/donghyun0518/dacon-wind-power-generation-lgbm-mlp-seqcnn/blob/main/wind_power_forecasting.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
-[프로젝트 발표 자료](https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm/blob/main/%EC%A0%84%EB%A0%A5%20(1).pdf)
+[프로젝트 발표 자료](https://github.com/donghyun0518/dacon-wind-power-generation-lgbm-mlp-seqcnn/blob/main/wind-power-forecasting-portfolio.pdf)
 
 # 풍력발전량 예측 — BARAM 2026 (Public 49위 → **Private 18위**)
 
@@ -16,10 +16,10 @@
 > 가장 큰 도약은 모델이 아니라 **데이터 안의 사실을 찾아낸 데서** 나왔고, 자체 감사로 **내 코드의 규정 위반을 찾아 점수를 깎아가며 고쳤다.**
 
 <p align="center">
-  <img src="docs/img/public_private_shakeup.png" width="820" alt="Public→Private 순위 변동">
+  <img src="https://github.com/donghyun0518/dacon-wind-power-generation-lgbm-mlp-seqcnn/blob/main/public_private_shakeup.png" width="820" alt="Public→Private 순위 변동">
 </p>
 <p align="center">
-  <img src="docs/img/hero_score_timeline.png" width="720" alt="점수 타임라인">
+  <img src="https://github.com/donghyun0518/dacon-wind-power-generation-lgbm-mlp-seqcnn/blob/main/hero_score_timeline.png" width="720" alt="점수 타임라인">
 </p>
 
 ---
